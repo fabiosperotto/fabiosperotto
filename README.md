@@ -3,7 +3,7 @@
 # Olá, me chamo Fábio!
 ___
 
-Sou professor e desenvolvedor. Tenho experiência em desenvolvimento web back-end com PHP, porém tenho interesse em outras tecnologias e diferentes arquiteturas de aplicações.
+Sou professor e desenvolvedor. Tenho experiência em desenvolvimento web back-end com PHP, porém tenho interesse em outras tecnologias com diferentes arquiteturas de aplicações.
 
 ![](https://komarev.com/ghpvc/?username=fabiosperotto&color=blue)
 
@@ -20,7 +20,7 @@ Sou professor e desenvolvedor. Tenho experiência em desenvolvimento web back-en
 
 Esta lista possui as tecnologias que tenho experiência de uso ou que já precisei utilizar de forma pontual em algum projeto:
 
-![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![image](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=Lumen&logoColor=white) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![image](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=Lumen&logoColor=white) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
 
