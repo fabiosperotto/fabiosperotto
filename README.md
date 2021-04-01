@@ -26,7 +26,7 @@ Esta lista possui as tecnologias que tenho experiência de uso ou que já precis
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiosperotto&theme=graywhite&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosperotto&layout=compact&hide=html,css)](https://github.com/fabiosperotto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosperotto&layout=compact&hide=html,css,JavaScript)](https://github.com/fabiosperotto)
 
 
 
