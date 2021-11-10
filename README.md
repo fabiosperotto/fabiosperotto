@@ -1,5 +1,3 @@
-<p align='center'>
-
 # Olá, me chamo Fábio!
 ___
 
@@ -7,7 +5,7 @@ Sou professor e desenvolvedor de sistemas. Tenho experiência profissional em de
 
 ![](https://komarev.com/ghpvc/?username=fabiosperotto&color=blue)
 
-
+<p align="center">
 
 ### Contatos
 
