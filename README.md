@@ -31,3 +31,6 @@ Esta lista possui as tecnologias que tenho experiência de uso ou que já precis
 
 
 </p>
+
+### Badges
+[![@fabiosp's Holopin board](https://holopin.me/fabiosp)](https://holopin.io/@fabiosp)
