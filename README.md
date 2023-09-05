@@ -22,7 +22,7 @@ Esta lista possui as tecnologias que tenho experiência de uso:
   ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![image](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![image](https://img.shields.io/badge/Lumen-E74430?style=for-the-badge&logo=Lumen&logoColor=white) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![image](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosperotto&layout=compact&hide=html,css,JavaScript,Batchfile,ApacheConf,EJS)](https://github.com/fabiosperotto)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiosperotto&layout=compact&hide=html,css,Batchfile,ApacheConf,EJS)](https://github.com/fabiosperotto)
 
 
 </div>
